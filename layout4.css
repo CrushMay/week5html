@@ -1,0 +1,22 @@
+.div1{
+    height: 50px;
+    border: 1px solid black;
+}
+.card1,.card2,.card3,.card4{
+    margin-top: 20px;
+    height: 150px;
+    border: 1px solid black;
+}
+.footer{
+    
+    height: 100px;
+}
+.div3{
+    border: 1px solid black;
+    height: 150px;
+    margin-top: 20px;
+}
+.card5{
+    border: 1px solid black;
+    height: 150px;
+}

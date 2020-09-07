@@ -1,0 +1,17 @@
+.contianer{
+    margin-top: 20px;
+}
+.div1{
+    margin-top: 20px;
+    height: 200px;
+    border: 1px solid black;
+}
+.card1,.card2,.card3,.card4{
+    margin-top: 20px;
+    height: 150px;
+    border: 1px solid black;
+}
+.footer{
+    margin-top: 20px;
+    height: 50px;
+}
